@@ -9,3 +9,4 @@ How to run the project?
 5) Scan the QR code from the Polygon ID app to kick off the verification process.
 PROVER HAS TO PROVE HE/SHE IS BORN BEFORE 1 JAN 2023 WITHOUT SHOWING HIS ACTUAL CREDENTIAL. ZK PROOF IS AUTOMATICALLY CREATED
 
+<img width="1136" alt="Screenshot 2024-04-23 at 9 56 40 AM" src="https://github.com/explorer-Sanjita/Age-Verification-using-ZKPs-and-SSI-Polygon-/assets/99412932/e7ff1633-a2a8-4247-8425-0dfe6444412b">
